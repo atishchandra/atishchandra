@@ -23,10 +23,15 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-** Linux ** &nbsp; Currently, Part of the Engineering Build Team at Capgemini, India
-- 🎓 &nbsp; Studying Master's in Computer Application from Chandigarh University.
-- 🧑‍💻 &nbsp; Diving Deep into Linux, Cloud & Database Technologies.
-- 👦 &nbsp; Three Words that defines me: Dreamer, Learner & Explorer
-- ✍️ &nbsp; I love Music, Movies, Writing & Travelling.
+- **Linux** : &nbsp; RHEL, SLES, SUSE, CentOS, Ubuntu
+- **Unix**  : Solaris, AIX
+- **Database** : Oracle, MySQL, PostgreSQL
+- **Windows** : Windows Server 2012, 2012 r2, 2019
+- **Language** : Python
+- **Scripting** : Bash/Shell
+- **Web Technology** : Apache, Tomcat
+- **Cloud** : Azure
+- **Tools** : Git, Github, SVN, Eclipse
+- **Others** : Debugging, IBM MQ
   
   ❣️ From [Atish Chandra](https://github.com/atishchandra)
