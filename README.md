@@ -23,15 +23,10 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-<p>
-- &nbsp; <a> <img alt="Linux" src="https://img.shields.io/badge/Linux-RHEL%2C%20SUSE%2C%20CentOS%2C%20Ubuntu-orange"></a>
-- &nbsp; <a> <img alt="Linux" src="https://img.shields.io/badge/Linux-RHEL%2C%20SUSE%2C%20CentOS%2C%20Ubuntu-orange"></a>
-- &nbsp; <a> <img alt="Linux" src="https://img.shields.io/badge/Linux-RHEL%2C%20SUSE%2C%20CentOS%2C%20Ubuntu-orange"></a>
-- &nbsp; <a> <img alt="Linux" src="https://img.shields.io/badge/Linux-RHEL%2C%20SUSE%2C%20CentOS%2C%20Ubuntu-orange"></a>
-- &nbsp; <a> <img alt="Linux" src="https://img.shields.io/badge/Linux-RHEL%2C%20SUSE%2C%20CentOS%2C%20Ubuntu-orange"></a>
-- &nbsp; <a> <img alt="Linux" src="https://img.shields.io/badge/Linux-RHEL%2C%20SUSE%2C%20CentOS%2C%20Ubuntu-orange"></a>
-- &nbsp; <a> <img alt="Linux" src="https://img.shields.io/badge/Linux-RHEL%2C%20SUSE%2C%20CentOS%2C%20Ubuntu-orange"></a>
-- &nbsp; <a> <img alt="Linux" src="https://img.shields.io/badge/Linux-RHEL%2C%20SUSE%2C%20CentOS%2C%20Ubuntu-orange"></a>
-</p>
+- ** Linux ** &nbsp; Currently, Part of the Engineering Build Team at Capgemini, India
+- 🎓 &nbsp; Studying Master's in Computer Application from Chandigarh University.
+- 🧑‍💻 &nbsp; Diving Deep into Linux, Cloud & Database Technologies.
+- 👦 &nbsp; Three Words that defines me: Dreamer, Learner & Explorer
+- ✍️ &nbsp; I love Music, Movies, Writing & Travelling.
   
   ❣️ From [Atish Chandra](https://github.com/atishchandra)
