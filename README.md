@@ -26,12 +26,12 @@
 - &nbsp; **Linux**  RHEL, SLES, SUSE, CentOS, Ubuntu
 - &nbsp; **Unix**  &nbsp; Solaris, AIX
 - &nbsp; **Database** : &nbsp; Oracle, MySQL, PostgreSQL
-- **Windows** : &nbsp; Windows Server 2012, 2012 r2, 2019
-- **Language** : &nbsp; Python
-- **Scripting** : &nbsp; Bash/Shell
-- **Web Technology** : &nbsp; Apache, Tomcat
-- **Cloud** : &nbsp; Azure
-- **Tools** : &nbsp; Git, Github, SVN, Eclipse
-- **Others** : &nbsp; Debugging, IBM MQ
+- &nbsp; **Windows** : &nbsp; Windows Server 2012, 2012 r2, 2019
+- &nbsp; **Language** : &nbsp; Python
+- &nbsp; **Scripting** : &nbsp; Bash/Shell
+- &nbsp; **Web Technology** : &nbsp; Apache, Tomcat
+- &nbsp; **Cloud** : &nbsp; Azure
+- &nbsp; **Tools** : &nbsp; Git, Github, SVN, Eclipse
+- &nbsp; **Others** : &nbsp; Debugging, IBM MQ
   
   ❣️ From [Atish Chandra](https://github.com/atishchandra)
