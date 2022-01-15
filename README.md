@@ -23,7 +23,7 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- ** Linux ** &nbsp; Currently, Part of the Engineering Build Team at Capgemini, India
+** Linux ** &nbsp; Currently, Part of the Engineering Build Team at Capgemini, India
 - 🎓 &nbsp; Studying Master's in Computer Application from Chandigarh University.
 - 🧑‍💻 &nbsp; Diving Deep into Linux, Cloud & Database Technologies.
 - 👦 &nbsp; Three Words that defines me: Dreamer, Learner & Explorer
