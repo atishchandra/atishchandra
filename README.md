@@ -24,14 +24,14 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - **Linux** : &nbsp; RHEL, SLES, SUSE, CentOS, Ubuntu
-- **Unix**  : Solaris, AIX
-- **Database** : Oracle, MySQL, PostgreSQL
-- **Windows** : Windows Server 2012, 2012 r2, 2019
-- **Language** : Python
-- **Scripting** : Bash/Shell
-- **Web Technology** : Apache, Tomcat
-- **Cloud** : Azure
-- **Tools** : Git, Github, SVN, Eclipse
-- **Others** : Debugging, IBM MQ
+- **Unix**  : &nbsp; Solaris, AIX
+- **Database** : &nbsp; Oracle, MySQL, PostgreSQL
+- **Windows** : &nbsp; Windows Server 2012, 2012 r2, 2019
+- **Language** : &nbsp; Python
+- **Scripting** : &nbsp; Bash/Shell
+- **Web Technology** : &nbsp; Apache, Tomcat
+- **Cloud** : &nbsp; Azure
+- **Tools** : &nbsp; Git, Github, SVN, Eclipse
+- **Others** : &nbsp; Debugging, IBM MQ
   
   ❣️ From [Atish Chandra](https://github.com/atishchandra)
