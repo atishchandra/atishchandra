@@ -24,20 +24,14 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 <p>
-- <a> <img alt="Linux" src="https://img.shields.io/badge/Linux-RHEL%2C%20SUSE%2C%20CentOS%2C%20Ubuntu-orange"></a>
-- <a> <img alt="Linux" src="https://img.shields.io/badge/Linux-RHEL%2C%20SUSE%2C%20CentOS%2C%20Ubuntu-orange"></a>
-- <a> <img alt="Linux" src="https://img.shields.io/badge/Linux-RHEL%2C%20SUSE%2C%20CentOS%2C%20Ubuntu-orange"></a>
-- <a> <img alt="Linux" src="https://img.shields.io/badge/Linux-RHEL%2C%20SUSE%2C%20CentOS%2C%20Ubuntu-orange"></a>
-- <a> <img alt="Linux" src="https://img.shields.io/badge/Linux-RHEL%2C%20SUSE%2C%20CentOS%2C%20Ubuntu-orange"></a>
-- <a> <img alt="Linux" src="https://img.shields.io/badge/Linux-RHEL%2C%20SUSE%2C%20CentOS%2C%20Ubuntu-orange"></a>
-- <a> <img alt="Linux" src="https://img.shields.io/badge/Linux-RHEL%2C%20SUSE%2C%20CentOS%2C%20Ubuntu-orange"></a>
-- <a> <img alt="Linux" src="https://img.shields.io/badge/Linux-RHEL%2C%20SUSE%2C%20CentOS%2C%20Ubuntu-orange"></a>
+- &nbsp; <a> <img alt="Linux" src="https://img.shields.io/badge/Linux-RHEL%2C%20SUSE%2C%20CentOS%2C%20Ubuntu-orange"></a>
+- &nbsp; <a> <img alt="Linux" src="https://img.shields.io/badge/Linux-RHEL%2C%20SUSE%2C%20CentOS%2C%20Ubuntu-orange"></a>
+- &nbsp; <a> <img alt="Linux" src="https://img.shields.io/badge/Linux-RHEL%2C%20SUSE%2C%20CentOS%2C%20Ubuntu-orange"></a>
+- &nbsp; <a> <img alt="Linux" src="https://img.shields.io/badge/Linux-RHEL%2C%20SUSE%2C%20CentOS%2C%20Ubuntu-orange"></a>
+- &nbsp; <a> <img alt="Linux" src="https://img.shields.io/badge/Linux-RHEL%2C%20SUSE%2C%20CentOS%2C%20Ubuntu-orange"></a>
+- &nbsp; <a> <img alt="Linux" src="https://img.shields.io/badge/Linux-RHEL%2C%20SUSE%2C%20CentOS%2C%20Ubuntu-orange"></a>
+- &nbsp; <a> <img alt="Linux" src="https://img.shields.io/badge/Linux-RHEL%2C%20SUSE%2C%20CentOS%2C%20Ubuntu-orange"></a>
+- &nbsp; <a> <img alt="Linux" src="https://img.shields.io/badge/Linux-RHEL%2C%20SUSE%2C%20CentOS%2C%20Ubuntu-orange"></a>
 </p>
- 
-
-![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
-![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
-![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
-![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
   
   ❣️ From [Atish Chandra](https://github.com/atishchandra)
