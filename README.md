@@ -19,7 +19,7 @@
 - 👦 &nbsp; Three Words that defines me: Dreamer, Learner & Explorer
 - ✍️ &nbsp; I love Music, Movies, Writing & Travelling.
 
-h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -49,4 +49,4 @@ h3> 🛠 &nbsp;Tech Stack</h3>
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
   
-  <center> ❣️ From [Atish Chandra](https://github.com/atishchandra) </center>
+  ❣️ From [Atish Chandra](https://github.com/atishchandra)
