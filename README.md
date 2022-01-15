@@ -21,6 +21,10 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
+<h1> Linux /h1> &nbsp; RHEL, SUSE, OpenSUSE, CentOS
+<h1> Unix /h1> &nbsp; Solaris, AIX
+ 
+
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
