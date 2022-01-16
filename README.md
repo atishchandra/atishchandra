@@ -23,16 +23,16 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
--👨‍💻&nbsp;**Linux** : RHEL | SLES | openSUSE | CentOS | Ubuntu
--👨‍💻&nbsp;**Unix**  : Solaris | AIX
--🛢&nbsp;**Database** : &nbsp; Oracle, MySQL, PostgreSQL
-- &nbsp; **Windows** : &nbsp; Windows Server 2012, 2012 r2, 2019
-- &nbsp; **Language** : &nbsp; Python
-- &nbsp; **Scripting** : &nbsp; Bash/Shell
-- &nbsp; **Web Technology** : &nbsp; Apache, Tomcat
-- &nbsp; **Cloud** : &nbsp; Azure
-- &nbsp; **Tools** : &nbsp; Git, Github, SVN, Eclipse
-- &nbsp; **Others** : &nbsp; Debugging, IBM MQ
+- 🧑‍💻 &nbsp; **Linux** : RHEL | SLES | openSUSE | CentOS | Ubuntu
+- 🧑‍💻 &nbsp; **Unix**  : Solaris | AIX
+- 🛢 &nbsp; **Database** : Oracle | MySQL | PostgreSQL
+- 🖥 &nbsp; **Windows** : Windows Server 2012 | 2012 r2 | 2019
+- 💻 &nbsp; **Language** : Python
+- 📜 &nbsp; **Scripting** : Bash | Shell
+- 🌐 &nbsp; **Web Technology** : Apache | Tomcat
+- ☁️ &nbsp; **Cloud** : Azure
+- ⚙️ &nbsp; **Tools** : Git | Github | SVN | Eclipse
+- 🔧 &nbsp; **Others** : Debugging | IBM MQ
 
 </br>
   
