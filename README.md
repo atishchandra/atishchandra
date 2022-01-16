@@ -40,17 +40,14 @@
 
 #### 🏢 Associate | L3 - Application Integration - Capgemini, India
 
-- 🏢 I'm currently working full-time with awesome peeps at **Teladoc Health**
-- ⚙️ I use daily: `.rb`, `.js`, `.erb`, `.slim`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`, `.sql`
-- 🌍 I support and volunteer with: **Code Nation, Built By Girls, AllStar Code**
-- 💅 Active community member of: **Out in Tech, Techqueria, Girls Who Code**
-- 🌱 Learning more about and studying: **Open Source, React, CS Algorithms**
-- 💬 Ping me about: **wed design**, **social media**, **diversity & inclusion**, **mentorship**, **Beyonce**
-- 📫 Reach me asap: <a href="https://twitter.com/millycodes/">Twitter</a> or Millycodes@gmail.com
-- 💜 Interests: huge Beyonce fan, cryptocurrency enthusiast, foodie, 🐶 Kiki
-- 😄 Passionate about accessibility and committed to a web that works for everyone
-
-
+- 🏢 Part of the Engineering Build Team for One of the Largest Automobile Company Project.
+- ⚙️ Define and Build applicative technical architecture from standard bricks and put it into production.
+- 🌍 Technical integration of the software solution in preproduction and production environments.
+- 🔧 Integration of new applications and updates.
+- 🔗 Manage exchange interface of the application with partner applications
+- 💬 Automates all possible processes to ensure reproducibility and high quality of application delivery and Operating Process.
+- 🛢  Database(PostgreSQL/Oracle/MySQL), Installation, Creation, Monitoring, Backup and Restore, Reorganization, Migration, Analyze and Improve DB Performance.
+- 💜 Contributes to Incident handling and Level 3 Support of Applications.
 
 </br>
   
