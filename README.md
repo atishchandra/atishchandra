@@ -23,8 +23,8 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- &nbsp; **Linux**  RHEL, SLES, SUSE, CentOS, Ubuntu
-- &nbsp; **Unix**  &nbsp; Solaris, AIX
+- **Linux** &nbsp; RHEL, SLES, SUSE, CentOS, Ubuntu
+- **Unix**  &nbsp; Solaris, AIX
 - &nbsp; **Database** : &nbsp; Oracle, MySQL, PostgreSQL
 - &nbsp; **Windows** : &nbsp; Windows Server 2012, 2012 r2, 2019
 - &nbsp; **Language** : &nbsp; Python
